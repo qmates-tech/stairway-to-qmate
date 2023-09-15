@@ -1,6 +1,6 @@
-# Starway to Orione: the Orione Team Learning Path
+# QMate's learning path
 
-This is the learning path every new developer has to follow when joining the XPeppers team.
+This is the learning path every new developer has to follow when joining our team.
 
 This path reflects our team's culture and values, which have their roots in the [agile values and principles](http://agilemanifesto.org/), as well as in those of XP, and in the [software craftsmanship manifesto](http://manifesto.softwarecraftsmanship.org/).
 

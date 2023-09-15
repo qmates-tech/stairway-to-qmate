@@ -10,13 +10,14 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 ### 1) Methodology
 * Read preface and chapters 1, 4, 5, 7 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) by Kent Beck ```#onboarding```
-* "[What Exactly is the Agile Mindset?](https://www.infoq.com/articles/what-agile-mindset/)" InfoQ article  ```#onboarding```
-* For __italian speakers__, Watch ["Perché è così difficile fare Extreme Programming"](https://vimeo.com/113090009) by Matteo Vaccari ```#onboarding```
+* "[What Exactly is the Agile Mindset?](https://www.infoq.com/articles/what-agile-mindset/)" InfoQ article ```#onboarding```
+* For __italian speakers__, Watch ["Perché è così difficile fare Extreme Programming"](https://vimeo.com/113090009) by Matteo Vaccari (~ 40 minutes) ```#onboarding```
+* "[What is Extreme Programming?](https://ronjeffries.com/xprog/what-is-extreme-programming/)" - definition of the 13 XP practices by Ron Jeffries
 * Martin Fowler's [Pair Programming blogpost](https://martinfowler.com/articles/on-pair-programming.html): choose some interesting parts ```#onboarding```
 * Iterative and Incremental Development paper by Robert C. Martin:
   * why [Waterfall](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf) fails ```#onboarding```
   * why [Agile Method](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDII.pdf) can be the alternative ```#onboarding```
-  * how to [Transition](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDIII.pdf) from first to second one
+  * how to [Transit](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDIII.pdf) from first to second one
 
 ### 2) Testing and TDD
 * Read chapter 9 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) up to _"The Three Laws of TDD"_ section ```#onboarding```

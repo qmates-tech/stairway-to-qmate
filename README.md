@@ -21,10 +21,9 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Read first chapter of ["Applying UML and Patterns"](http://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)
 
 ### 2) Testing and TDD
-
 * Read chapter 9 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) up to _"The Three Laws of TDD"_ section ```#onboarding```
 * Read preface and chapters 1, 2, 3 of [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
-* For __italian speakers__, Piergiuliano Bossi's [screencasts on TDD](https://www.youtube.com/channel/UCKu3XCVh7pe06khn4N1uCiQ): five basic lessons and a final video on emergent design.
+* For __italian speakers__, [Piergiuliano Bossi's screencasts](https://www.youtube.com/channel/UCKu3XCVh7pe06khn4N1uCiQ) on TDD basics and emergent design
 * Watch the Clean Code Talks series: these four videos (and the related blogpost series) are really valuable to learn how to design for testability.
   1. Watch ["The Clean Code Talks - Unit Testing" video](http://www.youtube.com/watch?v=wEhu57pih5w) (~ 30 minutes) [[slides](https://docs.google.com/presentation/d/1mZsq0WljEfgIR9Df_IcW0VQfNl-Pk_cEBR3i9id-eR4/present#slide=id.i0)]. Then read [his blogpost](http://misko.hevery.com/2008/11/04/clean-code-talks-unit-testing/). ```#onboarding```
   2. Watch ["The Clean Code Talks - Inheritance, Polymorphism, & Testing" video](https://www.youtube.com/watch?v=4F72VULWFvc) (~ 40 minutes). Then read [his blogpost](http://misko.hevery.com/2008/12/08/clean-code-talks-inheritance-polymorphism-testing/) (there you can find the slides too). ```#onboarding```

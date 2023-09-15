@@ -1,4 +1,4 @@
-# QMate's learning path
+# QMates' learning path
 
 This is the learning path every new developer has to follow when joining our team.
 

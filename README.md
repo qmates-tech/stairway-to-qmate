@@ -9,8 +9,8 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ## Main learning path
 
 ### 1) Methodology
-* Read chapters 1, 4, 5, 7 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) ```#onboarding```
-* Read chapters 2, 6 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416)
+* Read preface and chapters 1, 4, 5, 7 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) ```#onboarding```
+
 * Iterative and Incremental Development:
   * [Waterfall](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf) ```#onboarding```
   * [Agile](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDII.pdf) ```#onboarding```
@@ -126,7 +126,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ## Beyond Software Development
 
 ### More on Methodology
-
+* Read chapters 2, 6 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416)
 * Flat Organizations:
    * [The Flat Way](https://link.medium.com/E4kjMXajO3) ```#onboarding```
    * [Teal Is The New Black: Self-management and the future of work](https://management30.com/blog/teal-organization-self-management-future-of-work/)

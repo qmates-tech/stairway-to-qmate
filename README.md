@@ -9,15 +9,14 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ## Main learning path
 
 ### 1) Methodology
-* Read preface and chapters 1, 4, 5, 7 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) ```#onboarding```
+* Read preface and chapters 1, 4, 5, 7 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) by Kent Beck ```#onboarding```
+* "[What Exactly is the Agile Mindset?](https://www.infoq.com/articles/what-agile-mindset/)" InfoQ article  ```#onboarding```
+* For __italian speakers__, Watch ["Perché è così difficile fare Extreme Programming"](https://vimeo.com/113090009) by Matteo Vaccari ```#onboarding```
+* Martin Fowler's [Pair Programming blogpost](https://martinfowler.com/articles/on-pair-programming.html): choose some interesting parts ```#onboarding```
 * Iterative and Incremental Development paper by Robert C. Martin:
   * why [Waterfall](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf) fails ```#onboarding```
   * why [Agile Method](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDII.pdf) can be the alternative ```#onboarding```
   * how to [Transition](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDIII.pdf) from first to second one
-* For __italian speakers__, Watch ["Perché è così difficile fare Extreme Programming"](https://vimeo.com/113090009) by Matteo Vaccari ```#onboarding```
-* [Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) ```#onboarding```
-* Agile Mindset: [What Exactly is the Agile Mindset?](https://www.infoq.com/articles/what-agile-mindset/) ```#onboarding```
-* Read [The Pomodoro Technique](http://pomodorotechnique.com/) paper
 
 ### 2) Testing and TDD
 * Read chapter 9 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) up to _"The Three Laws of TDD"_ section ```#onboarding```
@@ -104,7 +103,9 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ## Beyond Software Development
 
 ### More on Methodology
-* Complete [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416): starts from chapters 2 and 6
+* Complete [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) by Kent Beck: starts from chapters 2 and 6
+* Complete Martin Fowler's [Pair Programming blogpost](https://martinfowler.com/articles/on-pair-programming.html)
+* Read [The Pomodoro Technique paper](http://friend.ucsd.edu/reasonableexpectations/downloads/Cirillo%20--%20Pomodoro%20Technique.pdf)
 * Flat Organizations:
    * [The Flat Way](https://link.medium.com/E4kjMXajO3) ```#onboarding```
    * [Teal Is The New Black: Self-management and the future of work](https://management30.com/blog/teal-organization-self-management-future-of-work/)

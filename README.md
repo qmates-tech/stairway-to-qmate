@@ -105,7 +105,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ## Beyond Software Development
 
 ### More on Methodology
-* Read chapters 2, 6 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416)
+* Complete [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416): starts from chapters 2 and 6
 * Flat Organizations:
    * [The Flat Way](https://link.medium.com/E4kjMXajO3) ```#onboarding```
    * [Teal Is The New Black: Self-management and the future of work](https://management30.com/blog/teal-organization-self-management-future-of-work/)

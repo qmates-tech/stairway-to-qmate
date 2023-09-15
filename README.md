@@ -16,17 +16,9 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
   * how to [Transition](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDIII.pdf) from first to second one
 * For __italian speakers__, Watch ["Perché è così difficile fare Extreme Programming"](https://vimeo.com/113090009) by Matteo Vaccari ```#onboarding```
 * [Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) ```#onboarding```
-* Agile Mindset:
-   * [What Exactly is the Agile Mindset?](https://www.infoq.com/articles/what-agile-mindset/) ```#onboarding```
+* Agile Mindset: [What Exactly is the Agile Mindset?](https://www.infoq.com/articles/what-agile-mindset/) ```#onboarding```
 * Read [The Pomodoro Technique](http://pomodorotechnique.com/) paper
 * Read first chapter of ["Applying UML and Patterns"](http://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)
-  * Try to estimate the time needed to study that chapter (using the pomodoro technique)
-  * Answer (for example on the team's wiki pages)
-    * What is analysis?
-    * What is design?
-    * What's the difference between them?
-    * What is design for?
-      * in other words, how would you reply to the following statement: _"I just need to understand what to do (analysis) and then do it (coding). Everything else does not matter!"_
 
 ### 2) Testing and TDD
 

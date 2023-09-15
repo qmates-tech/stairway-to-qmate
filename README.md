@@ -22,22 +22,16 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 ### 2) Testing and TDD
 
-* Read chapter 9 ```"The Three Laws of TDD"``` of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) ```#onboarding```
+* Read chapter 9 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) up to _"The Three Laws of TDD"_ section ```#onboarding```
 * Read [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 * Watch the Clean Code Talks series: these four videos (and the related blogpost series) are really valuable to learn how to design for testability.
-
   1. Watch ["The Clean Code Talks - Unit Testing" video](http://www.youtube.com/watch?v=wEhu57pih5w) (~ 30 minutes) [[slides](https://docs.google.com/presentation/d/1mZsq0WljEfgIR9Df_IcW0VQfNl-Pk_cEBR3i9id-eR4/present#slide=id.i0)]. Then read [his blogpost](http://misko.hevery.com/2008/11/04/clean-code-talks-unit-testing/). ```#onboarding```
-
   2. Watch ["The Clean Code Talks - Inheritance, Polymorphism, & Testing" video](https://www.youtube.com/watch?v=4F72VULWFvc) (~ 40 minutes). Then read [his blogpost](http://misko.hevery.com/2008/12/08/clean-code-talks-inheritance-polymorphism-testing/) (there you can find the slides too). ```#onboarding```
-
   3. Watch ["The Clean Code Talks - Don't Look For Things!" video](https://www.youtube.com/watch?v=RlfLCWKxHJ0) (~ 35 minutes) which talks about the Dependency Injection pattern. Then read [his blogpost](http://misko.hevery.com/2008/11/11/clean-code-talks-dependency-injection/) (there you can find the slides too).
-
   4. Watch ["The Clean Code Talks - "Global State and Singletons" video](https://www.youtube.com/watch?v=-FRm3VPhseI) (~ 55 minutes). Then read [his blogpost](http://misko.hevery.com/2008/11/21/clean-code-talks-global-state-and-singletons/) (there you can find the slides too).
-
   5. For each video you watched, write a short post (e.g. on your public [gist](https://gist.github.com/)) on
     * what you learned
     * what puzzled you most?
-
   6. Read Miško Hevery's guide on ["Writing Testable Code"](http://misko.hevery.com/code-reviewers-guide/)
 * Watch [Lets Play on TDD](http://www.jamesshore.com/Blog/Lets-Play) by James Shore
 * For __italian speakers__, Piergiuliano Bossi's [screencasts on TDD](https://www.youtube.com/channel/UCKu3XCVh7pe06khn4N1uCiQ) are a good starting point: there are five basic lessons and a final video on emergent design.

@@ -29,7 +29,8 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
   - [Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0): includes Dependency Injection pattern (~ 35 minutes) - [[blogpost and slides](http://misko.hevery.com/2008/11/11/clean-code-talks-dependency-injection/)]
   - [Global State and Singletons](https://www.youtube.com/watch?v=-FRm3VPhseI) (~ 55 minutes) - [[blogpost and slides](http://misko.hevery.com/2008/11/21/clean-code-talks-global-state-and-singletons/)]
 * Miško Hevery's guide on ["Writing Testable Code"](https://web.archive.org/web/20230531093323/http://misko.hevery.com/code-reviewers-guide/)
-* Do the [Sales Kata](https://github.com/xpeppers/sales-taxes-problem) in TDD ```#onboarding```
+* Do the [String Calculator Kata](https://github.com/qmates-tech/string-calculator-kata) in TDD ```#onboarding```
+* Do the [Sales Kata](https://github.com/xpeppers/sales-taxes-problem) in TDD
 
 ### 3) Clean code
 * Read the article [Keep It DRY, Shy, and Tell the Other Guy](http://media.pragprog.com/articles/may_04_oo1.pdf) ```#onboarding```
@@ -37,7 +38,6 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Tell Don't Ask principle
   * read the article [Tell, Don't Ask](http://archive.is/Bk10R/)
   * read the article [The Art of Enbugging](http://media.pragprog.com/articles/jan_03_enbug.pdf)
-* Do the [Kata String Calculator](https://github.com/xpeppers/string-calculator-kata)
 * Read first chapter of ["Applying UML and Patterns"](http://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)
 * Read first ten chapters of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) ```#onboarding```
@@ -46,8 +46,9 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
   * [LSP: Liskov Substitution Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh&hl=en)
   * [ISP: Interface Segregation Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi&hl=en)
   * [DIP: Dependency Inversion Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en)
-* Start the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ```#onboarding```
-  * find SOLID violations
+* Do the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas):
+  * find SOLID violations and discuss them with some collegues ```#onboarding```
+  * try to write unit tests for analyzed classes
 * Read [Names objects after things, not actions!](http://matteo.vaccari.name/blog/archives/743) by Matteo Vaccari
 * Watch Venkat Subramaniam's talk about ["Core Design Principles for Software Developers"](https://www.youtube.com/watch?v=llGgO74uXMI) ```#onboarding```
 * Read [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)

@@ -24,15 +24,12 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Read chapter 9 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) up to _"The Three Laws of TDD"_ section ```#onboarding```
 * Read preface and chapters 1, 2, 3 of [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 * For __italian speakers__, [Piergiuliano Bossi's screencasts](https://www.youtube.com/channel/UCKu3XCVh7pe06khn4N1uCiQ) on TDD basics and emergent design
-* Watch the Clean Code Talks series: these four videos (and the related blogpost series) are really valuable to learn how to design for testability.
-  1. Watch ["The Clean Code Talks - Unit Testing" video](http://www.youtube.com/watch?v=wEhu57pih5w) (~ 30 minutes) [[slides](https://docs.google.com/presentation/d/1mZsq0WljEfgIR9Df_IcW0VQfNl-Pk_cEBR3i9id-eR4/present#slide=id.i0)]. Then read [his blogpost](http://misko.hevery.com/2008/11/04/clean-code-talks-unit-testing/). ```#onboarding```
-  2. Watch ["The Clean Code Talks - Inheritance, Polymorphism, & Testing" video](https://www.youtube.com/watch?v=4F72VULWFvc) (~ 40 minutes). Then read [his blogpost](http://misko.hevery.com/2008/12/08/clean-code-talks-inheritance-polymorphism-testing/) (there you can find the slides too). ```#onboarding```
-  3. Watch ["The Clean Code Talks - Don't Look For Things!" video](https://www.youtube.com/watch?v=RlfLCWKxHJ0) (~ 35 minutes) which talks about the Dependency Injection pattern. Then read [his blogpost](http://misko.hevery.com/2008/11/11/clean-code-talks-dependency-injection/) (there you can find the slides too).
-  4. Watch ["The Clean Code Talks - "Global State and Singletons" video](https://www.youtube.com/watch?v=-FRm3VPhseI) (~ 55 minutes). Then read [his blogpost](http://misko.hevery.com/2008/11/21/clean-code-talks-global-state-and-singletons/) (there you can find the slides too).
-  5. For each video you watched, write a short post (e.g. on your public [gist](https://gist.github.com/)) on
-    * what you learned
-    * what puzzled you most?
-  6. Read Miško Hevery's guide on ["Writing Testable Code"](http://misko.hevery.com/code-reviewers-guide/)
+* Google Clean Code Talks series by Miško Hevery:
+  - [Unit Testing](http://www.youtube.com/watch?v=wEhu57pih5w) (~ 30 minutes) - [[slides](https://docs.google.com/presentation/d/1mZsq0WljEfgIR9Df_IcW0VQfNl-Pk_cEBR3i9id-eR4/present#slide=id.i0)] [[blogpost](http://misko.hevery.com/2008/11/04/clean-code-talks-unit-testing/)] ```#onboarding```
+  - [Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc) (~ 40 minutes) - [[blogpost and slides](http://misko.hevery.com/2008/12/08/clean-code-talks-inheritance-polymorphism-testing/)] ```#onboarding```
+  - [Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0): includes Dependency Injection pattern (~ 35 minutes) - [[blogpost and slides](http://misko.hevery.com/2008/11/11/clean-code-talks-dependency-injection/)]
+  - [Global State and Singletons](https://www.youtube.com/watch?v=-FRm3VPhseI) (~ 55 minutes) - [[blogpost and slides](http://misko.hevery.com/2008/11/21/clean-code-talks-global-state-and-singletons/)]
+  - Miško Hevery's guide on ["Writing Testable Code"](http://misko.hevery.com/code-reviewers-guide/)
 * Watch [Lets Play on TDD](http://www.jamesshore.com/Blog/Lets-Play) by James Shore
 * Do the [Sales Kata](https://github.com/xpeppers/sales-taxes-problem) in TDD ```#onboarding```
 * Extra: Follow the [The World's Best Intro to TDD](http://online-training.jbrains.ca/p/wbitdd-01) by J. B. Rainsberger

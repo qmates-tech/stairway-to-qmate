@@ -18,7 +18,6 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * [Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) ```#onboarding```
 * Agile Mindset: [What Exactly is the Agile Mindset?](https://www.infoq.com/articles/what-agile-mindset/) ```#onboarding```
 * Read [The Pomodoro Technique](http://pomodorotechnique.com/) paper
-* Read first chapter of ["Applying UML and Patterns"](http://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)
 
 ### 2) Testing and TDD
 * Read chapter 9 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) up to _"The Three Laws of TDD"_ section ```#onboarding```
@@ -33,13 +32,13 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Do the [Sales Kata](https://github.com/xpeppers/sales-taxes-problem) in TDD ```#onboarding```
 
 ### 3) Clean code
-
 * Read the article [Keep It DRY, Shy, and Tell the Other Guy](http://media.pragprog.com/articles/may_04_oo1.pdf) ```#onboarding```
 * Read the article [You Aren't Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt)
 * Tell Don't Ask principle
   * read the article [Tell, Don't Ask](http://archive.is/Bk10R/)
   * read the article [The Art of Enbugging](http://media.pragprog.com/articles/jan_03_enbug.pdf)
 * Do the [Kata String Calculator](https://github.com/xpeppers/string-calculator-kata)
+* Read first chapter of ["Applying UML and Patterns"](http://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)
 * Read first ten chapters of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) ```#onboarding```
   * [SRP: Single Responsibility Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)

@@ -9,10 +9,6 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ## Main learning path
 
 ### 1) Methodology
-* Flat Organizations:
-   * [The Flat Way](https://link.medium.com/E4kjMXajO3) ```#onboarding```
-   * [Teal Is The New Black: Self-management and the future of work](https://management30.com/blog/teal-organization-self-management-future-of-work/)
-   * [Collaborative decision making in self-organizing teams](https://www.agilebusinessday.com/2019/09/26/collaborative-decision-making-in-self-organizing-teams-abd19-lorenzo-massacci/)
 * Read chapters 1, 4, 5, 7 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) ```#onboarding```
 * Read chapters 2, 6 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416)
 * Iterative and Incremental Development:
@@ -129,10 +125,17 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 ## Beyond Software Development
 
-### 1) Becoming a "full-stack" Agile Developer
+### More on Methodology
+
+* Flat Organizations:
+   * [The Flat Way](https://link.medium.com/E4kjMXajO3) ```#onboarding```
+   * [Teal Is The New Black: Self-management and the future of work](https://management30.com/blog/teal-organization-self-management-future-of-work/)
+   * [Collaborative decision making in self-organizing teams](https://www.agilebusinessday.com/2019/09/26/collaborative-decision-making-in-self-organizing-teams-abd19-lorenzo-massacci/)
+
+### Becoming a "full-stack" Agile Developer
 * Watch [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA) by J.B. Rainsberger
 
-### 2) Software development economics
+### Software development economics
 * Read chapter 3 ```"Economics of Software Development"``` of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416)
 * Read chapter 7, section with title ```"Tools 22": Contracts``` of [Lean Software Development: An Agile Toolkit](https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783)
 

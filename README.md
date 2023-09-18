@@ -51,16 +51,14 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Read the article [You Aren't Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt)
 
 ### 4) Refactoring
-
-* Watch [Martin Fowler @ OOP2014 "Workflows of Refactoring"](https://www.youtube.com/watch?v=vqEg37e4Mkw) (~ 25 minutes)
-* Read first three chapters of [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) ```#onboarding```
-* Watch [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
-  * [Example Code](https://github.com/sandromancuso/trip-service-kata)
-* Try the [GildedRoseKata](https://github.com/joebew42/GildedRose) ```#onboarding```
-  * Code Coverage
-  * Code Refactoring
-  * Add the new feature
-* Try the [TennisRefactoringKata](https://github.com/emilybache/Tennis-Refactoring-Kata) (find code smells)
+* Read preface and first three chapters of [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by Martin Fowler ```#onboarding```
+* Watch ["Workflows of Refactoring"](https://www.youtube.com/watch?v=vqEg37e4Mkw) talk by Martin Fowler (~ 25 minutes)
+* Try the [Tennis-Refactoring-Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) and spot the code smells (chapter 3 of [Refactoring](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) book) ```#onboarding```
+* Watch [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) screencast by Sandro Mancuso (~ 75 minutes) - [[example code](https://github.com/sandromancuso/trip-service-kata)]
+* Try the [GildedRose-Refactoring-Kata](https://github.com/qmates-tech/GildedRose-Refactoring-Kata) following this steps: ```#onboarding```
+  1. Code Coverage
+  2. Code Refactoring
+  3. Add the new feature
 
 ### 5) TDD and "Friends"
 

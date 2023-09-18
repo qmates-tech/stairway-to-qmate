@@ -60,19 +60,20 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
   2. Code Refactoring
   3. Add the new feature
 
-### 5) TDD and "Friends"
+### 5) Simple and Testable design
+* Read [Kent Beck's 4 Rules of Simple Design](https://martinfowler.com/bliki/BeckDesignRules.html) Martin Fowler's article ```#onboarding```
+* Watch [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs) by Miško Hevery (~ 75 minutes)
+* Read [Good Design is Easily-Learned](http://blog.scottbellware.com/2009/01/good-design-is-easily-learned.html) Scott Bellware's post
+* Encapsulation and Information Hiding
+  * Read [Nat Pryce's article](http://www.natpryce.com/articles/000498.html)
+  * Read [C2 Wiki article](http://c2.com/cgi/wiki?EncapsulationIsNotInformationHiding)
+* Try these Katas and compare your solution with related videos:
+  * [The Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata) - [[related video](https://www.youtube.com/watch?v=OPGTPQ4kURU)]
+  * [The Roman Numerals Kata](https://web.archive.org/web/20180602202843/http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary) - [[related video](https://www.youtube.com/watch?v=vX-Yym7166Y)]
 
-* Read [The Four Elements of Simple Design](http://www.jbrains.ca/permalink/the-four-elements-of-simple-design) ```#onboarding```
-* [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
-* [Good Design is Easily-Learned](http://blog.scottbellware.com/2009/01/good-design-is-easily-learned.html)
-* Try to learn and repeat these Katas autonomously
-  * [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
-  * [TheRomanNumeralsKata](https://web.archive.org/web/20180602202843/http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary) ([video](https://www.youtube.com/watch?v=vX-Yym7166Y))
+### 6) Test driven & friends
 * Read the first eight chapters of [Growing Object Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/)
-* [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
-* Encapsulation e Information Hiding:
-  * http://www.natpryce.com/articles/000498.html
-  * http://c2.com/cgi/wiki?EncapsulationIsNotInformationHiding
+* Read [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) Martin Fowler's article
 * Read [Overcoming the one weakness of OOP](http://blogs.ugidotnet.org/luKa/archive/2015/01/20/overcoming-the-one-weakness-of-oop.aspx)
 * Read [Object Calisthenics](http://williamdurand.fr/2013/06/03/object-calisthenics/)
 * Read about the [Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
@@ -82,7 +83,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Watch [Sandro Mancuso - Crafted Design](http://vimeo.com/101106002)
 * Watch [Mock Roles Not Object States](http://www.infoq.com/news/2008/08/Mock-Roles-Pryce-and-Freeman) - [Paper](http://jmock.org/oopsla2004.pdf)
 
-### 6) Hexagonal architecture
+### 7) Hexagonal architecture
 
 * Read https://web.archive.org/web/20170916120520/http://alistair.cockburn.us/Hexagonal+architecture ```#onboarding```
 * Read http://matteo.vaccari.name/blog/the-hexagonal-architecture
@@ -90,7 +91,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Read http://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid
 * Read http://c2.com/cgi/wiki?HexagonalArchitecture
 
-### 7) Systems architecture
+### 8) Systems architecture
 
 * Read chapters about Stability 3, 4, 5 and Capacity 8, 9, 10 of [Release It!](https://pragprog.com/book/mnee/release-it) ```#onboarding```
 

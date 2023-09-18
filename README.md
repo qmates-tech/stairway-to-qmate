@@ -48,7 +48,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
   * try to write unit tests for analyzed classes
 * Read the article [Keep It DRY, Shy, and Tell the Other Guy](http://media.pragprog.com/articles/may_04_oo1.pdf) ```#onboarding```
 * Read the article [You Aren't Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt)
-* Read [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+* Read [The Pragmatic Programmer](https://www.amazon.it/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/)
 
 ### 4) Refactoring
 

@@ -33,13 +33,10 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Do the [Sales Kata](https://github.com/xpeppers/sales-taxes-problem) in TDD
 
 ### 3) Clean Code
-* Read the article [Keep It DRY, Shy, and Tell the Other Guy](http://media.pragprog.com/articles/may_04_oo1.pdf) ```#onboarding```
-* Read the article [You Aren't Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt)
-* Tell Don't Ask principle
-  * read the article [Tell, Don't Ask](http://archive.is/Bk10R/)
-  * read the article [The Art of Enbugging](http://media.pragprog.com/articles/jan_03_enbug.pdf)
+* Read introduction and first six chapters of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) book by Robert C. Martin ```#onboarding```
+* Watch Venkat Subramaniam's talk about ["Core Design Principles for Software Developers"](https://www.youtube.com/watch?v=llGgO74uXMI) (~ 150 minutes) ```#onboarding```
+* Read [Names objects after things, not actions!](http://matteo.vaccari.name/blog/archives/743) by Matteo Vaccari
 * Read first chapter of ["Applying UML and Patterns"](http://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)
-* Read first six chapters of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) book by Robert C. Martin ```#onboarding```
 * [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
   * [SRP: Single Responsibility Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
   * [OCP: Open-Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
@@ -49,12 +46,9 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Do the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas):
   * find SOLID violations and discuss them with some collegues ```#onboarding```
   * try to write unit tests for analyzed classes
-* Read [Names objects after things, not actions!](http://matteo.vaccari.name/blog/archives/743) by Matteo Vaccari
-* Watch Venkat Subramaniam's talk about ["Core Design Principles for Software Developers"](https://www.youtube.com/watch?v=llGgO74uXMI) ```#onboarding```
+* Read the article [Keep It DRY, Shy, and Tell the Other Guy](http://media.pragprog.com/articles/may_04_oo1.pdf) ```#onboarding```
+* Read the article [You Aren't Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt)
 * Read [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
-* Watch [Is SOLID A Good Idea](http://vimeo.com/20388419)
-* Watch [Responsive Design](http://www.infoq.com/presentations/responsive-design)
-* Extra: Follow the [__"Clean coders"__](http://cleancoders.com/) screencasts by Robert C. Martin
 
 ### 4) Refactoring
 
@@ -120,6 +114,12 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 ### More on Clean Code
 * Complete [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) book by Robert C. Martin
+* Tell Don't Ask principle
+  * read the article [Tell, Don't Ask](http://archive.is/Bk10R/)
+  * read the article [The Art of Enbugging](http://media.pragprog.com/articles/jan_03_enbug.pdf)
+* Watch [Is SOLID A Good Idea](http://vimeo.com/20388419) (~ 55 minutes)
+* Watch [Responsive Design](http://www.infoq.com/presentations/responsive-design) (~ 70 minutes)
+* Follow the ["Clean coders"](http://cleancoders.com/) series by Robert C. Martin
 
 ## Beyond Software Development
 

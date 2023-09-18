@@ -34,8 +34,8 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 ### 3) Clean Code
 * Read introduction and first six chapters of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) book by Robert C. Martin ```#onboarding```
+* Read preface and first chapter of [The Pragmatic Programmer](https://www.amazon.it/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/) book ```#onboarding```
 * Watch Venkat Subramaniam's talk about ["Core Design Principles for Software Developers"](https://www.youtube.com/watch?v=llGgO74uXMI) (~ 150 minutes) ```#onboarding```
-* Read [Names objects after things, not actions!](http://matteo.vaccari.name/blog/archives/743) by Matteo Vaccari
 * Read first chapter of ["Applying UML and Patterns"](http://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)
 * [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
   * [SRP: Single Responsibility Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
@@ -46,9 +46,9 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Do the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas):
   * find SOLID violations and discuss them with some collegues ```#onboarding```
   * try to write unit tests for analyzed classes
+* Read [Names objects after things, not actions!](http://matteo.vaccari.name/blog/archives/743) by Matteo Vaccari
 * Read the article [Keep It DRY, Shy, and Tell the Other Guy](http://media.pragprog.com/articles/may_04_oo1.pdf) ```#onboarding```
 * Read the article [You Aren't Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt)
-* Read [The Pragmatic Programmer](https://www.amazon.it/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/)
 
 ### 4) Refactoring
 
@@ -114,6 +114,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 ### More on Clean Code
 * Complete [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) book by Robert C. Martin
+* Complete [The Pragmatic Programmer](https://www.amazon.it/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/) book
 * Tell Don't Ask principle
   * read the article [Tell, Don't Ask](http://archive.is/Bk10R/)
   * read the article [The Art of Enbugging](http://media.pragprog.com/articles/jan_03_enbug.pdf)

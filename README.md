@@ -76,13 +76,13 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Read [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) Martin Fowler's article
 * Read [The Little Mocker](https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html) Robert Martin's article
 * Read [Overcoming the one weakness of OOP](http://blogs.ugidotnet.org/luKa/archive/2015/01/20/overcoming-the-one-weakness-of-oop.aspx)
-* Read [Object Calisthenics](http://williamdurand.fr/2013/06/03/object-calisthenics/)
 * Read about the [Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 * Watch [Ian Cooper - TDD, where did it all go wrong](http://vimeo.com/68375232)
 * Watch [J.B. Rainsberger - Integrated Tests Are A Scam](http://vimeo.com/80533536)
 * Watch [Sandro Mancuso - Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
 * Watch [Sandro Mancuso - Crafted Design](http://vimeo.com/101106002)
 * Watch [Mock Roles Not Object States](http://www.infoq.com/news/2008/08/Mock-Roles-Pryce-and-Freeman) - [Paper](http://jmock.org/oopsla2004.pdf)
+* Try to do a known kata applying some [Object Calisthenics](http://williamdurand.fr/2013/06/03/object-calisthenics/) rule and discuss effects with some collegues
 
 ### 7) Hexagonal architecture
 

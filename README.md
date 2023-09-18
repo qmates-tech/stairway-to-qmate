@@ -102,7 +102,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 * Read chapters about Stability 3, 4, 5 and Capacity 8, 9, 10 of [Release It!](https://pragprog.com/book/mnee/release-it) ```#onboarding```
 
-## Beyond Software Development
+## Complete the main learning path
 
 ### More on Methodology
 * Complete [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) by Kent Beck: starts from chapters 2 and 6
@@ -120,6 +120,8 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 ### More on Clean Code
 * Complete [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) book by Robert C. Martin
+
+## Beyond Software Development
 
 ### Becoming a "full-stack" Agile Developer
 * Watch [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA) by J.B. Rainsberger

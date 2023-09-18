@@ -74,6 +74,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ### 6) Test driven & friends
 * Read the first eight chapters of [Growing Object Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/)
 * Read [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) Martin Fowler's article
+* Read [The Little Mocker](https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html) Robert Martin's article
 * Read [Overcoming the one weakness of OOP](http://blogs.ugidotnet.org/luKa/archive/2015/01/20/overcoming-the-one-weakness-of-oop.aspx)
 * Read [Object Calisthenics](http://williamdurand.fr/2013/06/03/object-calisthenics/)
 * Read about the [Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)

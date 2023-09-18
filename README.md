@@ -32,15 +32,15 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Do the [String Calculator Kata](https://github.com/qmates-tech/string-calculator-kata) in TDD ```#onboarding```
 * Do the [Sales Kata](https://github.com/xpeppers/sales-taxes-problem) in TDD
 
-### 3) Clean code
+### 3) Clean Code
 * Read the article [Keep It DRY, Shy, and Tell the Other Guy](http://media.pragprog.com/articles/may_04_oo1.pdf) ```#onboarding```
 * Read the article [You Aren't Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt)
 * Tell Don't Ask principle
   * read the article [Tell, Don't Ask](http://archive.is/Bk10R/)
   * read the article [The Art of Enbugging](http://media.pragprog.com/articles/jan_03_enbug.pdf)
 * Read first chapter of ["Applying UML and Patterns"](http://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)
-* Read first ten chapters of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-* [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) ```#onboarding```
+* Read first six chapters of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) book by Robert C. Martin ```#onboarding```
+* [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
   * [SRP: Single Responsibility Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
   * [OCP: Open-Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
   * [LSP: Liskov Substitution Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh&hl=en)
@@ -117,6 +117,9 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Complete [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 * [Lets Play on TDD](http://www.jamesshore.com/Blog/Lets-Play) series by James Shore
 * [The World's Best Intro to TDD](http://online-training.jbrains.ca/p/wbitdd-01) by J. B. Rainsberger
+
+### More on Clean Code
+* Complete [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) book by Robert C. Martin
 
 ### Becoming a "full-stack" Agile Developer
 * Watch [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA) by J.B. Rainsberger

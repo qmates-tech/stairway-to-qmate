@@ -10,11 +10,11 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 ### 1) Methodology
 * Read preface and chapters 1, 4, 5, 7 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) by Kent Beck ```#onboarding```
-* "[The Agile Mindset - And Beyond](https://www.youtube.com/watch?v=C13JC_YP2Q8)" by Linda Rising (~ 50 minutes) ```#onboarding```
+* Watch ["The Agile Mindset - And Beyond"](https://www.youtube.com/watch?v=C13JC_YP2Q8) by Linda Rising (~ 50 minutes) ```#onboarding```
 * For __italian speakers__, watch ["Perché è così difficile fare Extreme Programming"](https://vimeo.com/113090009) by Matteo Vaccari (~ 40 minutes) ```#onboarding```
-* "[What is Extreme Programming?](https://ronjeffries.com/xprog/what-is-extreme-programming/)" - definition of the 13 XP practices by Ron Jeffries
+* Read ["What is Extreme Programming?"](https://ronjeffries.com/xprog/what-is-extreme-programming/) post - definition of the 13 XP practices by Ron Jeffries
 * Read first two sections of Martin Fowler's [Pair Programming blogpost](https://martinfowler.com/articles/on-pair-programming.html) (_How to pair_ + _Benefits_) ```#onboarding```
-* Iterative and Incremental Development paper by Robert C. Martin:
+* Read _Iterative and Incremental Development_ paper by Robert C. Martin:
   * why [Waterfall](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf) fails ```#onboarding```
   * why [Agile Method](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDII.pdf) can be the alternative ```#onboarding```
   * how to [Transit](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDIII.pdf) from first to second one
@@ -22,28 +22,28 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ### 2) Testing and TDD
 * Read chapter 9 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) up to _"The Three Laws of TDD"_ section ```#onboarding```
 * Read preface and chapters 1, 2, 3 of [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
-* Do the [String Calculator Kata](https://github.com/qmates-tech/string-calculator-kata) in TDD ```#onboarding```
+* Try the [String Calculator Kata](https://github.com/qmates-tech/string-calculator-kata) in TDD ```#onboarding```
 * For __italian speakers__, watch [Piergiuliano Bossi's screencasts](https://www.youtube.com/channel/UCKu3XCVh7pe06khn4N1uCiQ) on TDD basics and emergent design (~ 40 minutes x5 videos)
-* Google Clean Code Talks series by Miško Hevery:
+* Watch the Google Clean Code Talks series by Miško Hevery:
   - [Unit Testing](http://www.youtube.com/watch?v=wEhu57pih5w) (~ 30 minutes) - [[slides](https://docs.google.com/presentation/d/1mZsq0WljEfgIR9Df_IcW0VQfNl-Pk_cEBR3i9id-eR4/present#slide=id.i0)] [[blogpost](http://misko.hevery.com/2008/11/04/clean-code-talks-unit-testing/)] ```#onboarding```
   - [Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc) (~ 40 minutes) - [[blogpost and slides](http://misko.hevery.com/2008/12/08/clean-code-talks-inheritance-polymorphism-testing/)] ```#onboarding```
   - [Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0): includes Dependency Injection pattern (~ 35 minutes) - [[blogpost and slides](http://misko.hevery.com/2008/11/11/clean-code-talks-dependency-injection/)]
   - [Global State and Singletons](https://www.youtube.com/watch?v=-FRm3VPhseI) (~ 55 minutes) - [[blogpost and slides](http://misko.hevery.com/2008/11/21/clean-code-talks-global-state-and-singletons/)]
-* Miško Hevery's guide on ["Writing Testable Code"](https://web.archive.org/web/20230531093323/http://misko.hevery.com/code-reviewers-guide/)
-* Do the [Sales Kata](https://github.com/xpeppers/sales-taxes-problem) in TDD
+* Read Miško Hevery's guide on ["Writing Testable Code"](https://web.archive.org/web/20230531093323/http://misko.hevery.com/code-reviewers-guide/)
+* Try the [Sales Kata](https://github.com/xpeppers/sales-taxes-problem) in TDD
 
 ### 3) Clean Code
 * Read introduction and first six chapters of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) book by Robert C. Martin ```#onboarding```
 * Read preface and first chapter of [The Pragmatic Programmer](https://www.amazon.it/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/) book ```#onboarding```
 * Watch Venkat Subramaniam's talk about ["Core Design Principles for Software Developers"](https://www.youtube.com/watch?v=llGgO74uXMI) (~ 150 minutes) ```#onboarding```
 * Read first chapter of ["Applying UML and Patterns"](http://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)
-* [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+* Study the [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
   * [SRP: Single Responsibility Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
   * [OCP: Open-Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
   * [LSP: Liskov Substitution Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh&hl=en)
   * [ISP: Interface Segregation Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi&hl=en)
   * [DIP: Dependency Inversion Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en)
-* Do the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas):
+* Try the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas):
   * find SOLID violations and discuss them with some collegues ```#onboarding```
   * try to write unit tests for analyzed classes
 * Read [Names objects after things, not actions!](http://matteo.vaccari.name/blog/archives/743) by Matteo Vaccari

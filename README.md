@@ -22,7 +22,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ### 2) Testing and TDD
 * Read chapter 9 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) up to _"The Three Laws of TDD"_ section ```#onboarding```
 * Read preface and chapters 1, 2, 3 of [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
-* For __italian speakers__, [Piergiuliano Bossi's screencasts](https://www.youtube.com/channel/UCKu3XCVh7pe06khn4N1uCiQ) on TDD basics and emergent design
+* For __italian speakers__, [Piergiuliano Bossi's screencasts](https://www.youtube.com/channel/UCKu3XCVh7pe06khn4N1uCiQ) on TDD basics and emergent design (~ 40 minutes x5 videos)
 * Google Clean Code Talks series by Miško Hevery:
   - [Unit Testing](http://www.youtube.com/watch?v=wEhu57pih5w) (~ 30 minutes) - [[slides](https://docs.google.com/presentation/d/1mZsq0WljEfgIR9Df_IcW0VQfNl-Pk_cEBR3i9id-eR4/present#slide=id.i0)] [[blogpost](http://misko.hevery.com/2008/11/04/clean-code-talks-unit-testing/)] ```#onboarding```
   - [Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc) (~ 40 minutes) - [[blogpost and slides](http://misko.hevery.com/2008/12/08/clean-code-talks-inheritance-polymorphism-testing/)] ```#onboarding```

@@ -75,6 +75,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 ### # Test driven & friends
 * Read the first eight chapters of [Growing Object Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/)
+* Read introduction and chapters 1-6 of [xUnit Test Patterns: Refactoring Test Code](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054)
 * Read [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) Martin Fowler's article
 * Read [The Little Mocker](https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html) Robert Martin's article
 * Read [Overcoming the one weakness of OOP](http://blogs.ugidotnet.org/luKa/archive/2015/01/20/overcoming-the-one-weakness-of-oop.aspx)
@@ -85,6 +86,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Watch [Sandro Mancuso - Crafted Design](http://vimeo.com/101106002)
 * Watch [Mock Roles Not Object States](http://www.infoq.com/news/2008/08/Mock-Roles-Pryce-and-Freeman) - [Paper](http://jmock.org/oopsla2004.pdf)
 * Try to do a known kata applying some [Object Calisthenics](http://williamdurand.fr/2013/06/03/object-calisthenics/) rule and discuss effects with some collegues
+* Read Part II, Test Smells, chapters 15-17 of [xUnit Test Patterns: Refactoring Test Code](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054)
 
 ### # Hexagonal architecture
 * Read https://web.archive.org/web/20170916120520/http://alistair.cockburn.us/Hexagonal+architecture ```#onboarding```
@@ -121,6 +123,9 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Watch [Is SOLID A Good Idea](http://vimeo.com/20388419) (~ 55 minutes)
 * Watch [Responsive Design](http://www.infoq.com/presentations/responsive-design) (~ 70 minutes)
 * Follow the ["Clean coders"](http://cleancoders.com/) series by Robert C. Martin
+
+### # Test driven & friends
+* Read part III, The Patterns of [xUnit Test Patterns: Refactoring Test Code](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054)
 
 ### # Becoming a "full-stack" Agile Developer
 * Watch [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA) by J.B. Rainsberger

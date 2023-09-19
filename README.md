@@ -11,7 +11,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ### 1) Methodology
 * Read [The Agile Manifesto](https://agilemanifesto.org/) and the [Twelve Principles](https://agilemanifesto.org/principles.html) behind it ```#onboarding```
   * Read also about its [History](https://agilemanifesto.org/history.html) if you want to know more
-* Read preface and chapters 1, 4, 5, 7 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) by Kent Beck ```#onboarding``
+* Read preface and chapters 1, 4, 5, 7 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) by Kent Beck ```#onboarding```
 * Watch ["The Agile Mindset - And Beyond"](https://www.youtube.com/watch?v=C13JC_YP2Q8) by Linda Rising (~ 50 minutes) ```#onboarding```
 * For __italian speakers__, watch ["Perché è così difficile fare Extreme Programming"](https://vimeo.com/113090009) by Matteo Vaccari (~ 40 minutes) ```#onboarding```
 * Read ["What is Extreme Programming?"](https://ronjeffries.com/xprog/what-is-extreme-programming/) post - definition of the 13 XP practices by Ron Jeffries

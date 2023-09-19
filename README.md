@@ -11,15 +11,15 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ### # Methodology
 * Read [The Agile Manifesto](https://agilemanifesto.org/) and the [Twelve Principles](https://agilemanifesto.org/principles.html) behind it ```#onboarding```
   * Read also about its [History](https://agilemanifesto.org/history.html) if you want to know more
-* Read preface and chapters 1, 4, 5, 7 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) by Kent Beck ```#onboarding```
-* Watch ["The Agile Mindset - And Beyond"](https://www.youtube.com/watch?v=C13JC_YP2Q8) by Linda Rising (~ 50 minutes) ```#onboarding```
-* For __italian speakers__, watch ["Perché è così difficile fare Extreme Programming"](https://vimeo.com/113090009) by Matteo Vaccari (~ 40 minutes) ```#onboarding```
-* Read ["What is Extreme Programming?"](https://ronjeffries.com/xprog/what-is-extreme-programming/) post - definition of the 13 XP practices by Ron Jeffries
-* Read first two sections of Martin Fowler's [Pair Programming blogpost](https://martinfowler.com/articles/on-pair-programming.html) (_How to pair_ + _Benefits_) ```#onboarding```
 * Read _Iterative and Incremental Development_ paper by Robert C. Martin:
-  * why [Waterfall](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf) fails ```#onboarding```
+  * why [Waterfall](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf) fails
   * why [Agile Method](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDII.pdf) can be the alternative ```#onboarding```
   * how to [Transit](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDIII.pdf) from first to second one
+* Read preface and chapters 1, 4, 5, 7 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) by Kent Beck ```#onboarding```
+* Watch ["The Agile Mindset - And Beyond"](https://www.youtube.com/watch?v=C13JC_YP2Q8) by Linda Rising (~ 50 minutes)
+* For __italian speakers__, watch ["Perché è così difficile fare Extreme Programming"](https://vimeo.com/113090009) by Matteo Vaccari (~ 40 minutes) ```#onboarding```
+* Read ["What is Extreme Programming?"](https://ronjeffries.com/xprog/what-is-extreme-programming/) post - definition of the 13 XP practices by Ron Jeffries ```#onboarding```
+* Read first two sections of Martin Fowler's [Pair Programming blogpost](https://martinfowler.com/articles/on-pair-programming.html) (_How to pair_ + _Benefits_) ```#onboarding```
 
 ### # Testing and TDD
 * Read chapter 9 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) up to _"The Three Laws of TDD"_ section ```#onboarding```

@@ -78,6 +78,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Read introduction and chapters 1-6 of [xUnit Test Patterns: Refactoring Test Code](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054)
 * Read [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) Martin Fowler's article
 * Read [The Little Mocker](https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html) Robert Martin's article
+* Read [How I learned to love mocks](https://medium.com/@xpmatteo/how-i-learned-to-love-mocks-1-fb341b71328) - Matteo Vaccari
 * Read [Overcoming the one weakness of OOP](http://blogs.ugidotnet.org/luKa/archive/2015/01/20/overcoming-the-one-weakness-of-oop.aspx)
 * Read about the [Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 * Watch [Ian Cooper - TDD, where did it all go wrong](http://vimeo.com/68375232)

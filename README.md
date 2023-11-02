@@ -23,6 +23,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Watch ["Vivere per raccontarla: l’importanza del daily journal in un team agile"](https://vimeo.com/195952480) by Pietro Di Bello (~ 15 minutes) ```#onboarding```
 
 ### # Testing and TDD
+* Read chapter 2 of [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Code-EFFECT-ebook/dp/B005OYHF0A?qid=1698919236&sr=8-1) up to _"What is Unit Testing?"_ section ```#onboarding```
 * Read chapter 9 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) up to _"The Three Laws of TDD"_ section ```#onboarding```
 * Read preface and chapters 1, 2, 3 of [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) ```#onboarding```
 * Try the [String Calculator Kata](https://github.com/qmates-tech/string-calculator-kata) in TDD ```#onboarding```

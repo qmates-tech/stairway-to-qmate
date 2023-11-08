@@ -20,7 +20,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * For __italian speakers__, watch ["Perché è così difficile fare Extreme Programming"](https://vimeo.com/113090009) by Matteo Vaccari (~ 40 minutes) ```#onboarding```
 * Read ["What is Extreme Programming?"](https://ronjeffries.com/xprog/what-is-extreme-programming/) post - definition of the 13 XP practices by Ron Jeffries ```#onboarding```
 * Read first two sections of Martin Fowler's [Pair Programming blogpost](https://martinfowler.com/articles/on-pair-programming.html) (_How to pair_ + _Benefits_) ```#onboarding```
-* Watch ["Vivere per raccontarla: l’importanza del daily journal in un team agile"](https://vimeo.com/195952480) by Pietro Di Bello (~ 15 minutes) ```#onboarding```
+* For __italian speakers__, watch ["Vivere per raccontarla: l’importanza del daily journal in un team agile"](https://vimeo.com/195952480) by Pietro Di Bello (~ 15 minutes) ```#onboarding```
 
 ### # Testing and TDD
 * Read chapter 2 of [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Code-EFFECT-ebook/dp/B005OYHF0A?qid=1698919236&sr=8-1) up to _"What is Unit Testing?"_ section ```#onboarding```

@@ -85,7 +85,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Read about the [Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 * Watch [Ian Cooper - TDD, where did it all go wrong](http://vimeo.com/68375232)
 * Watch [J.B. Rainsberger - Integrated Tests Are A Scam](http://vimeo.com/80533536)
-* Watch [Sandro Mancuso - Crafted Design]([http://vimeo.com/101106002](https://www.youtube.com/watch?v=dYvSaajboEs))
+* Watch [Sandro Mancuso - Crafted Design](https://www.youtube.com/watch?v=dYvSaajboEs)
 * Watch [Mock Roles Not Object States](http://www.infoq.com/news/2008/08/Mock-Roles-Pryce-and-Freeman) - [Paper](http://jmock.org/oopsla2004.pdf)
 * Try to do a known kata applying some [Object Calisthenics](http://williamdurand.fr/2013/06/03/object-calisthenics/) rule and discuss effects with some collegues
 * Read Part II, Test Smells, chapters 15-17 of [xUnit Test Patterns: Refactoring Test Code](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054)

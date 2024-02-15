@@ -91,11 +91,11 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Read Part II, Test Smells, chapters 15-17 of [xUnit Test Patterns: Refactoring Test Code](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054)
 
 ### # Hexagonal architecture
-* Read https://web.archive.org/web/20170916120520/http://alistair.cockburn.us/Hexagonal+architecture ```#onboarding```
-* Read http://matteo.vaccari.name/blog/the-hexagonal-architecture
-* Read http://matteo.vaccari.name/blog/archives/154
-* Read http://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid
-* Read http://c2.com/cgi/wiki?HexagonalArchitecture
+* Read [Alistair Cockburn - Hexagonal architecture](https://web.archive.org/web/20170916120520/http://alistair.cockburn.us/Hexagonal+architecture) ```#onboarding```
+* Read [Matteo Vaccari - Hexagonal architecture](http://matteo.vaccari.name/blog/the-hexagonal-architecture)
+* Read [Matteo Vaccari - Birthday Greetings kata](http://matteo.vaccari.name/blog/archives/154)
+* Read [The Forgotten Layer of the Test Automation Pyramid](http://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid)
+* Read [Hexagonal architecture - wiki-c2](http://c2.com/cgi/wiki?HexagonalArchitecture)
 
 ### # Systems architecture
 * Read chapters about Stability 3, 4, 5 and Capacity 8, 9, 10 of [Release It!](https://pragprog.com/book/mnee/release-it) ```#onboarding```

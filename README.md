@@ -6,6 +6,8 @@ This path reflects our team's culture and values, which have their roots in the 
 
 Please feel free to fork and contribute, add materials, fix the existing ones and propose new stuff.
 
+How to use: the resources or kata are divided by macro-topics and in order of complexity. You can compose your study iterations taking resources from the topics (even different) you're interested.
+
 ## Main learning path
 
 ### # Methodology

@@ -132,6 +132,7 @@ How to use: the resources or kata are divided by macro-topics and in order of co
    * [Decision-making methods: a comparison](https://www.sociocracyforall.org/decision-making-methods-comparison/) by Sociocracy 3.0
    * [Consent Decision Making Demonstration](https://www.youtube.com/watch?v=uJG5f4EBGGQ) by Sociocracy 3.0
 * Read [Introduction to LeSS - Large Scale Scrum](https://less.works/less/framework/introduction) by Craig Larman and Bas Vodde
+* Read [The Principles of product development flow](https://a.co/d/fEoXtZb) by Don Reinertsen
 
 ### # Testing and TDD
 * Complete [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)

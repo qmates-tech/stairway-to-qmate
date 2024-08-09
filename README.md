@@ -118,7 +118,7 @@ How to use: the resources or kata are divided by macro-topics and in order of co
 * Read the principles of continuous delivery [Principles - Continuous Delivery](https://continuousdelivery.com/principles/)
 * Read [Continuous Delivery](https://a.co/d/cMpvaFw) book to go deeper
 
-## Advanced learning path
+## (going deeper with) Advanced learning path
 
 ### # Methodology
 * Complete [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) by Kent Beck: starts from chapters 2 and 6

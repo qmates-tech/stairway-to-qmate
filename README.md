@@ -119,10 +119,11 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Flat Organizations:
    * [The Flat Way](https://link.medium.com/E4kjMXajO3)
    * [Teal Is The New Black: Self-management and the future of work](https://management30.com/blog/teal-organization-self-management-future-of-work/)
-   * [Collaborative decision making in self-organizing teams](https://www.agilebusinessday.com/2019/09/26/collaborative-decision-making-in-self-organizing-teams-abd19-lorenzo-massacci/)
+   * [Decision-making methods: a comparison](https://www.sociocracyforall.org/decision-making-methods-comparison/) by Sociocracy 3.0
+   * [Consent Decision Making Demonstration](https://www.youtube.com/watch?v=uJG5f4EBGGQ) by Sociocracy 3.0
 * Read [Scrum Guide (LeSS Version)](https://less.works/less/scrum-guide) by Craig Larman and Bas Vodde
 * Read [Introduction to LeSS - Large Scale Scrum](https://less.works/less/framework/introduction) by Craig Larman and Bas Vodde
- 
+
 ### # Testing and TDD
 * Complete [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 * [Lets Play on TDD](http://www.jamesshore.com/Blog/Lets-Play) series by James Shore

@@ -112,7 +112,7 @@ How to use: the resources or kata are divided by macro-topics and in order of co
 * Read [The Forgotten Layer of the Test Automation Pyramid](http://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid)
 * Read [Hexagonal architecture - wiki-c2](http://c2.com/cgi/wiki?HexagonalArchitecture)
 
-### # Systems architecture
+### # Infrastructure Operations
 * Read chapters about Stability 3, 4, 5 and Capacity 8, 9, 10 of [Release It!](https://pragprog.com/book/mnee/release-it) ```#onboarding```
 
 ## Advanced learning path

@@ -23,6 +23,7 @@ How to use: the resources or kata are divided by macro-topics and in order of co
 * Read ["What is Extreme Programming?"](https://ronjeffries.com/xprog/what-is-extreme-programming/) post - definition of the 13 XP practices by Ron Jeffries ```#onboarding```
 * For __italian speakers__, watch ["Perché è così difficile fare Extreme Programming"](https://vimeo.com/113090009) by Matteo Vaccari (~ 40 minutes) ```#onboarding```
 * For __italian speakers__, watch ["Vivere per raccontarla: l’importanza del daily journal in un team agile"](https://vimeo.com/195952480) by Pietro Di Bello (~ 15 minutes) ```#onboarding```
+* Read [Scrum Guide (LeSS Version)](https://less.works/less/scrum-guide) by Craig Larman and Bas Vodde
 
 ### # Pair Programming
 * Read first two sections of Martin Fowler's [Pair Programming blogpost](https://martinfowler.com/articles/on-pair-programming.html) (_How to pair_ + _Benefits_) ```#onboarding```
@@ -123,7 +124,6 @@ How to use: the resources or kata are divided by macro-topics and in order of co
    * [Teal Is The New Black: Self-management and the future of work](https://management30.com/blog/teal-organization-self-management-future-of-work/)
    * [Decision-making methods: a comparison](https://www.sociocracyforall.org/decision-making-methods-comparison/) by Sociocracy 3.0
    * [Consent Decision Making Demonstration](https://www.youtube.com/watch?v=uJG5f4EBGGQ) by Sociocracy 3.0
-* Read [Scrum Guide (LeSS Version)](https://less.works/less/scrum-guide) by Craig Larman and Bas Vodde
 * Read [Introduction to LeSS - Large Scale Scrum](https://less.works/less/framework/introduction) by Craig Larman and Bas Vodde
 
 ### # Testing and TDD

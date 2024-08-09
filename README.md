@@ -72,6 +72,8 @@ How to use: the resources or kata are divided by macro-topics and in order of co
 * Read part I - Tydings of [Tidy First?](https://www.amazon.it/Tidy-First-Personal-Exercise-Empirical/dp/1098151240) by Kent Beck
 * Try [Tennis-Refactoring-Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) again spotting the tydings you used 
 * Watch [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) screencast by Sandro Mancuso (~ 75 minutes) - [[example code](https://github.com/sandromancuso/trip-service-kata)]
+  * take also a look into his [trip-service-kata code](https://github.com/sandromancuso/trip-service-kata)
+* Read [Parallel change (aka: expand and contract)](https://martinfowler.com/bliki/ParallelChange.html) by Martin Fowler
 * Try the [GildedRose-Refactoring-Kata](https://github.com/qmates-tech/GildedRose-Refactoring-Kata) following this steps: ```#onboarding```
   1. Code Coverage
   2. Code Refactoring

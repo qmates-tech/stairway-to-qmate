@@ -114,6 +114,9 @@ How to use: the resources or kata are divided by macro-topics and in order of co
 
 ### # Infrastructure Operations
 * Read chapters about Stability 3, 4, 5 and Capacity 8, 9, 10 of [Release It!](https://pragprog.com/book/mnee/release-it) ```#onboarding```
+* Read the definition of continuous delivery [What is continuous delivery?](https://continuousdelivery.com/)
+* Read the principles of continuous delivery [Principles - Continuous Delivery](https://continuousdelivery.com/principles/)
+* Read [Continuous Delivery](https://a.co/d/cMpvaFw) book to go deeper
 
 ## Advanced learning path
 

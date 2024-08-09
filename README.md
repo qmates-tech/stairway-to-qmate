@@ -20,8 +20,15 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Watch ["The Agile Mindset - And Beyond"](https://www.youtube.com/watch?v=C13JC_YP2Q8) by Linda Rising (~ 50 minutes)
 * Read ["What is Extreme Programming?"](https://ronjeffries.com/xprog/what-is-extreme-programming/) post - definition of the 13 XP practices by Ron Jeffries ```#onboarding```
 * For __italian speakers__, watch ["Perché è così difficile fare Extreme Programming"](https://vimeo.com/113090009) by Matteo Vaccari (~ 40 minutes) ```#onboarding```
-* Read first two sections of Martin Fowler's [Pair Programming blogpost](https://martinfowler.com/articles/on-pair-programming.html) (_How to pair_ + _Benefits_) ```#onboarding```
 * For __italian speakers__, watch ["Vivere per raccontarla: l’importanza del daily journal in un team agile"](https://vimeo.com/195952480) by Pietro Di Bello (~ 15 minutes) ```#onboarding```
+
+### # Pair Programming
+* Read first two sections of Martin Fowler's [Pair Programming blogpost](https://martinfowler.com/articles/on-pair-programming.html) (_How to pair_ + _Benefits_) ```#onboarding```
+* Read [Pairing Session Template](https://tuple.app/pair-programming-guide/template) on how setting up a pairing session by Tuple
+* Focusing on pair programming antipatterns:
+  - Read [Pair programming antipatterns](https://tuple.app/pair-programming-guide/antipatterns)
+  - Watch [Pair programming antipatterns](https://www.youtube.com/watch?v=ReuFZYtGeCc) (~ 5 minutes)
+  - Watch [Killing me softly - with this Pair](https://www.infoq.com/presentations/pair-programming-play/) (~ 20 minutes)
 
 ### # Testing and TDD
 * Read chapter 2 of [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Code-EFFECT-ebook/dp/B005OYHF0A?qid=1698919236&sr=8-1) up to _"What is Unit Testing?"_ section ```#onboarding```

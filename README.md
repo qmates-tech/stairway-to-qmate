@@ -66,6 +66,8 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Read preface and first three chapters of [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by Martin Fowler ```#onboarding```
 * Watch ["Workflows of Refactoring"](https://www.youtube.com/watch?v=vqEg37e4Mkw) talk by Martin Fowler (~ 25 minutes)
 * Try the [Tennis-Refactoring-Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) and spot the code smells (chapter 3 of [Refactoring](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) book) ```#onboarding```
+* Read part I - Tydings of [Tidy First?](https://www.amazon.it/Tidy-First-Personal-Exercise-Empirical/dp/1098151240) by Kent Beck
+* Try [Tennis-Refactoring-Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) again spotting the tydings you used 
 * Watch [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) screencast by Sandro Mancuso (~ 75 minutes) - [[example code](https://github.com/sandromancuso/trip-service-kata)]
 * Try the [GildedRose-Refactoring-Kata](https://github.com/qmates-tech/GildedRose-Refactoring-Kata) following this steps: ```#onboarding```
   1. Code Coverage
